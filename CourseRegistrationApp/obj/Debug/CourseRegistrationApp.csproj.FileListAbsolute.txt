@@ -1,0 +1,11 @@
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.exe.config
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.exe
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.pdb
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.Form1.resources
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.Properties.Resources.resources
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.GenerateResource.cache
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.exe
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.pdb
+C:\Users\maret\source\repos\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.exe.config
